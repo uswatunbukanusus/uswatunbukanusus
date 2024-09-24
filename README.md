@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Uswatun Bukan Usus!
 
-![Waving Hand](https://media.giphy.com/media/3oEjI6SIIHBdRxw6Gi/giphy.gif)
+![Waving Hand](https://tenor.com/view/wave-hello-gif-14720130)
+<!-- ![Waving Hand](https://media.giphy.com/media/3oEjI6SIIHBdRxw6Gi/giphy.gif) -->
 
 ## 🚀 About Me
 
