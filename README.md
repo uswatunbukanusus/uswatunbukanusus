@@ -13,13 +13,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 🌟 Fun Fact
+## 🌟 Fun ...
 Did you know? I can code while I'm starving! 
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats...
 !(https://github-readme-stats.vercel.app/api?username=uswatunbukanusus&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## 🌱 I'm Learning...
+## 🌱 I'm Learning....
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF4081?style=flat&logo=TensorFlow&logoColor=white)
 
 ## 🎉 Let's Connect!
