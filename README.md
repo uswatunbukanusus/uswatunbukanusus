@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Uswatun Bukan Usus!
+# 👋 Hi there, I'm Uswa NOT Usus!
 
 ![Waving Hand](https://media.giphy.com/media/3oEjI6SIIHBdRxw6Gi/giphy.gif)
 
